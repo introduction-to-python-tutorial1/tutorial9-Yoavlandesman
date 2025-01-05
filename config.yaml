@@ -1,2 +1,2 @@
-path: "path_to_your_model.joblib"
-features: ['feature_1',  'feature_2'] # You are allowed to add only two features.
+path: "knn_model.jolib"
+features: [['bill_length_mm', 'bill_depth_mm']]
