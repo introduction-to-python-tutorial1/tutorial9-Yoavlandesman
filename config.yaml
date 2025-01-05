@@ -1,2 +1,2 @@
 path: "knn_model.jolib"
-features: [['bill_length_mm', 'bill_depth_mm']]
+features: ['bill_length_mm', 'bill_depth_mm']
